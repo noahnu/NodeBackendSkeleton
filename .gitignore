@@ -1,0 +1,20 @@
+# System
+.DS_Store
+thumbs.db
+
+# Environment
+.vscode
+.env
+
+# Built files
+docs/
+
+# Temp and cache
+*.tmp
+*.log
+
+# Dependencies
+node_modules
+
+# Force directory creation via reserved file
+!.gitkeep
